@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToGithibProj", "IntroToGithibProj\IntroToGithibProj.csproj", "{8B224165-066B-4662-A104-58EC1D91947D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B224165-066B-4662-A104-58EC1D91947D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B224165-066B-4662-A104-58EC1D91947D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B224165-066B-4662-A104-58EC1D91947D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B224165-066B-4662-A104-58EC1D91947D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519D2224-0E8A-407D-A671-5C282CC9F477}
+	EndGlobalSection
+EndGlobal
